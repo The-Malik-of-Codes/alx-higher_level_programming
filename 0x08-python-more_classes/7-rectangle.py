@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 class Rectangle:
     def __init__(self, width: int = 0, height: int = 0):
         self.width = width
