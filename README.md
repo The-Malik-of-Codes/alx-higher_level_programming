@@ -18,15 +18,14 @@ The repository is structured as follows:
 To get started with the Higher Programming Project, follow these steps:
 
 1. Clone the repository to your local machine using Git.
-git clone https://github.com/yourusername/higher-programming-project.git
+        git clone git@github.com:The-Malik-of-Codes/alx-higher_level_programming.git
 
 
 2. Navigate to the project directory.
-cd higher-programming-project
-
+        cd alx-higher_level_programming.git
 
 3. Install any required dependencies as specified in the `requirements.txt` file.
-pip install -r requirements.txt
+        pip install -r requirements.txt
 
 
 4. Read the documentation in the `docs/` directory for a deeper understanding of the project and its functionality.
